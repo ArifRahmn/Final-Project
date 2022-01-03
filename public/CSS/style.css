@@ -1,0 +1,17 @@
+.sampul {
+  width: 70px;
+}
+
+.table > tbody > tr > * {
+  vertical-align: middle;
+}
+
+.pesan {
+  text-align: center;
+}
+
+.opsi {
+  text-align: center;
+  position: center;
+  display: center;
+}
